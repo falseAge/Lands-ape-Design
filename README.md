@@ -18,6 +18,16 @@
   <li>Реализовано несколько построек: мост и пирс</li>
 </ul>
 
+## Скриншоты
+
+<div position="relative" align="center">
+  <img width=320px src="[ССЫЛКА](https://github.com/falseAge/Lands-ape-Design/blob/main/1.png)">
+    
+  <img width=320px src="[ССЫЛКА](https://github.com/falseAge/Lands-ape-Design/blob/main/2.png)">
+
+  <img width=320px src="[ССЫЛКА](https://github.com/falseAge/Lands-ape-Design/blob/main/3.png)">
+</div>
+
 ## Технологии
 
 <ul>
